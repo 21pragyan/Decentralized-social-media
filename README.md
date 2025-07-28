@@ -89,3 +89,5 @@ This project welcomes contributions from the community. Please ensure all code f
 ---
 
 *Building the future of decentralized social media, one block at a time.*
+
+0x3bb546b6dcBA52489D4f9CDB421Fe4B5b5F82CFa
